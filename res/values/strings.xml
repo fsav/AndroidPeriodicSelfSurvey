@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">PeriodicSelfSurvey</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Periodic Self Survey</string>
+    <string name="title_activity_survey">SurveyActivity</string>
+
+</resources>
